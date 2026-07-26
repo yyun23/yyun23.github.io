@@ -27,3 +27,8 @@
 @use "tabs";
 @use "teachings";
 @use "typograms";
+
+// Smaller social icons on the about page
+.social .contact-icons {
+  font-size: 1.5rem;
+}
