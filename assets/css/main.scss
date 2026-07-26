@@ -9,7 +9,7 @@
 
 /* Design tokens are configured BEFORE loading any partials. */
 /* $purple-color drives the light-mode link color, $cyan-color the dark-mode one. */
-@use "variables" with ($max-content-width: {{ site.max_width | default:  "930px" }}, $purple-color: #473992, $cyan-color: #7ab8ff);
+@use "variables" with ($max-content-width: {{ site.max_width | default:  "930px" }}, $purple-color: #000080, $cyan-color: #7ab8ff);
 
 @use "themes";
 @use "layout";
