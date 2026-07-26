@@ -81,3 +81,13 @@ article ul,
 article ol {
   display: flow-root;
 }
+
+// CV page: no list markers, no location column
+.cv .list-group {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cv .location {
+  display: none;
+}
