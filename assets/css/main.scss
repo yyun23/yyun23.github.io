@@ -96,13 +96,13 @@ article ol {
 .cv .card-title {
   font-size: 1.05rem;
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
-// CV page: entry names in normal weight and body size
+// CV page: entry names match the Education institution line
 .cv .title {
-  font-weight: 400 !important;
-  font-size: 0.9rem;
+  font-weight: 300 !important;
+  font-size: 0.95rem;
 }
 
 // CV page: push the date block to the right edge of its column
@@ -115,7 +115,8 @@ article ol {
   text-align: right;
 }
 
-// CV page: spacing between section cards
+// CV page: spacing around section cards
 .cv .cv-card {
   margin-top: 1.5rem;
+  padding: 1rem 1rem 0.5rem;
 }
