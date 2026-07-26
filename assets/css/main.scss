@@ -32,3 +32,23 @@
 .social .contact-icons {
   font-size: 1.5rem;
 }
+
+// Breathing room around headings
+article h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+article h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+article h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+article > *:first-child {
+  margin-top: 0;
+}
