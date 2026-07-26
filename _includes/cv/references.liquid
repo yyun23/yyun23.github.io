@@ -1,7 +1,10 @@
 {% comment %}
   Local override of al_folio_cv's references template.
-  Only change from the gem version: entry.name goes through markdownify so that
-  markdown links such as [Name](https://example.com) render as real links.
+  Changes from the gem version:
+  1. entry.name goes through markdownify so that markdown links such as
+     [Name](https://example.com) render as real links.
+  2. The name and reference lines carry ref-name / ref-detail classes so their
+     size and weight can match the entry text used in the other sections.
   RenderCV already renders the same markdown link in the generated PDF.
 {% endcomment %}
 
@@ -11,8 +14,8 @@
       {% if entry.icon %}
         <i class="{{ entry.icon }}"></i>
       {% endif %}
-      <strong>{{ entry.name | markdownify | remove: '<p>' | remove: '</p>' }}</strong>
-      <p>{{ entry.reference | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+      <span class="ref-name">{{ entry.name | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+      <p class="ref-detail">{{ entry.reference | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     </li>
   {% endfor %}
 </ul>
