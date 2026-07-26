@@ -120,3 +120,8 @@ article ol {
   margin-top: 1.5rem;
   padding: 1rem 1rem 0.5rem;
 }
+
+// CV page: breathing room between Education entries
+.cv .edu-item + .edu-item {
+  margin-top: 0.75rem;
+}
