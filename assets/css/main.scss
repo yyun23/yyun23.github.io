@@ -96,12 +96,13 @@ article ol {
 .cv .card-title {
   font-size: 1.05rem;
   margin-top: 0;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
-// CV page: entry names in normal weight, not bold
+// CV page: entry names in normal weight and body size
 .cv .title {
   font-weight: 400 !important;
+  font-size: 0.9rem;
 }
 
 // CV page: push the date block to the right edge of its column
