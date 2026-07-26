@@ -96,24 +96,7 @@
                     {% elsif entry.name %}
                       <li class="list-group-item">
                         <div class="row">
-                          <div class="col-xs-8 col-sm-9 col-md-9">
-                            <h6 class="title font-weight-light">{{ entry.name | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
-                            {% if entry.summary %}
-                              <h6 class="font-weight-light" style="font-size: 0.95rem">
-                                {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
-                              </h6>
-                            {% endif %}
-                            {% if entry.highlights %}
-                              <ul class="items">
-                                {% for item in entry.highlights %}
-                                  <li>
-                                    <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
-                                  </li>
-                                {% endfor %}
-                              </ul>
-                            {% endif %}
-                          </div>
-                          <div class="col-xs-4 col-sm-3 col-md-3 text-right date-column">
+                          <div class="col-xs-4 col-sm-3 col-md-3 text-left date-column">
                             {% capture entry_date %}
                               {% if entry.date %}
                                 {{ entry.date }}
@@ -147,6 +130,23 @@
                                 {% endif %}
                               </tbody>
                             </table>
+                          </div>
+                          <div class="col-xs-8 col-sm-9 col-md-9">
+                            <h6 class="title font-weight-light">{{ entry.name | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
+                            {% if entry.summary %}
+                              <h6 class="font-weight-light" style="font-size: 0.95rem">
+                                {{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}
+                              </h6>
+                            {% endif %}
+                            {% if entry.highlights %}
+                              <ul class="items">
+                                {% for item in entry.highlights %}
+                                  <li>
+                                    <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                                  </li>
+                                {% endfor %}
+                              </ul>
+                            {% endif %}
                           </div>
                         </div>
                       </li>
