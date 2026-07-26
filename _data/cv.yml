@@ -1,159 +1,135 @@
 cv:
   name: Yeonggyu Yun
-  label: PhD Candidate in Economics
   email: yyun23@wisc.edu
-  location: Madison, WI
-  image: ""
-  summary: International Economics, Macroeconomics, Finance
 
   sections:
+    Research Interests:
+      - label: Fields
+        details: International Economics, Macroeconomics, Finance
+
     Education:
       - institution: University of Wisconsin-Madison
-        location: Madison, WI
         area: Economics
-        studyType: PhD
+        degree: PhD
+        location: Madison, WI
         start_date: 2021
-        end_date: 2027 (Expected)
+        end_date: 2027
 
       - institution: University of Wisconsin-Madison
-        location: Madison, WI
         area: Economics
-        studyType: MS
+        degree: MS
+        location: Madison, WI
         start_date: 2021
         end_date: 2023
-        highlights:
-          - En route to PhD
 
       - institution: Seoul National University
-        location: Seoul, Republic of Korea
         area: Economics
-        studyType: MA
+        degree: MA
+        location: Seoul, Republic of Korea
         start_date: 2020
         end_date: 2022
 
       - institution: Seoul National University
+        area: Statistics
+        degree: BS
         location: Seoul, Republic of Korea
-        area: Economics and Statistics
-        studyType: BA and BS
+        start_date: 2013
+        end_date: 2020
+
+      - institution: Seoul National University
+        area: Economics
+        degree: BA
+        location: Seoul, Republic of Korea
         start_date: 2013
         end_date: 2020
 
     Professional Appointments:
-      - company: Federal Reserve Board
-        position: Dissertation Fellow, Division of International Finance
-        location: Washington, DC
-        start_date: June 2026
-        end_date: August 2026
+      - label: "2026"
+        details: Dissertation Fellow, Division of International Finance, Federal Reserve Board
 
-      - company: International Monetary Fund
-        position: Project Officer
-        location: Washington, DC
-        start_date: February 2026
-        end_date: April 2026
+      - label: "2026"
+        details: Project Officer, International Monetary Fund
 
-      - company: International Monetary Fund
-        position: Fund Internship Program
-        location: Washington, DC
-        start_date: June 2025
-        end_date: August 2025
+      - label: "2025"
+        details: Fund Internship Program, International Monetary Fund
 
     Awards:
-      - title: Best PhD Student Paper
-        date: 2024
-        awarder: Joint Conference of the Allied Korea Finance Associations
+      - label: "2024"
+        details: Best PhD Student Paper, Joint Conference of the Allied Korea Finance Associations
 
-      - title: Best PhD Student Paper
-        date: 2023
-        awarder: Korean Finance Association
+      - label: "2023"
+        details: Best PhD Student Paper, Korean Finance Association
 
-      - title: Best Master's Thesis
-        date: 2022
-        awarder: College of Social Sciences, Seoul National University
+      - label: "2022"
+        details: Best Master's Thesis, College of Social Sciences, Seoul National University
 
-      - title: Runner-up Undergraduate Thesis
-        date: 2020
-        awarder: College of Social Sciences, Seoul National University
+      - label: "2020"
+        details: Runner-up Undergraduate Thesis, College of Social Sciences, Seoul National University
 
-      - title: The 46th Annual Six Star Salute
-        date: 2017
-        awarder: United Services Organization
-        summary: Awarded to 80 exemplary personnel among the entire Korean and U.S. Forces in Korea
+      - label: "2017"
+        details: The 46th Annual Six Star Salute, United Services Organization
 
     Scholarships:
-      - title: Jerome A. and Mary Straka Fellowship
-        date: 2026 to 2027
-        awarder: University of Wisconsin-Madison
+      - label: 2026 to 2027
+        details: Jerome A. and Mary Straka Fellowship, UW-Madison
 
-      - title: Overseas PhD Fellowship
-        date: 2024 to 2026
-        awarder: DB Cultural Foundation
+      - label: 2024 to 2026
+        details: Overseas PhD Fellowship, DB Cultural Foundation
 
-      - title: Overseas PhD Fellowship
-        date: 2021 to 2026
-        awarder: Korea Foundation for Advanced Studies
+      - label: 2021 to 2026
+        details: Overseas PhD Fellowship, Korea Foundation for Advanced Studies
 
-      - title: Conference Presentation Award
-        date: 2024
-        awarder: UW-Madison Student Research Grants Competition
+      - label: "2024"
+        details: Conference Presentation Award, UW-Madison Student Research Grants Competition
 
-      - title: Juli Plant Grainger Summer Research Fellowship
-        date: 2024
-        awarder: University of Wisconsin-Madison
+      - label: "2024"
+        details: Juli Plant Grainger Summer Research Fellowship, UW-Madison
 
-      - title: Graduate Student Scholarship
-        date: 2020 to 2021
-        awarder: Kwanjeong Educational Foundation
+      - label: 2020 to 2021
+        details: Graduate Student Scholarship, Kwanjeong Educational Foundation
 
-      - title: Brain Korea 21+ Research Fellowship
-        date: 2020 to 2021
-        awarder: Seoul National University
+      - label: 2020 to 2021
+        details: Brain Korea 21+ Research Fellowship, Seoul National University
 
-      - title: Graduate Research Grant
-        date: 2020
-        awarder: College of Social Sciences, Seoul National University
+      - label: "2020"
+        details: Graduate Research Grant, College of Social Sciences, Seoul National University
 
-      - title: Undergraduate Research Grant
-        date: 2019
-        awarder: College of Social Sciences, Seoul National University
-
-
-    Seminar and Conference Presentations:
-      - name: 2026
-        summary: UMN-UW International/Macro Student Workshop; Federal Reserve Board
-
-      - name: 2025
-        summary: AFA PhD Poster Session*; Midwest Economics Association; Midwest Macro (Spring)*; Economics Graduate Student Conference at WashU; Bank of Mexico Biennial Conference on Financial Stability*
-
-      - name: 2024
-        summary: Joint Conference of the Allied Korea Finance Associations*; Asian Meeting of the Econometric Society; International Institute of Public Finance; UW-Madison Summer Research Fellowship Seminar; UMN-UW International/Macro Student Workshop; FMA*; Australasian Finance and Banking Conference*
-
-      - name: 2023
-        summary: Midwest Macro (Spring/Fall); Sydney Banking and Financial Stability Conference*; KAIST (Seoul)*; Korean Finance Association*
-
-      - name: 2020
-        summary: Korean Association for Survey Research Spring Conference*
-
-      - name: Note
-        summary: "*: presented by co-author"
+      - label: "2019"
+        details: Undergraduate Research Grant, College of Social Sciences, Seoul National University
 
     Additional Training:
-      - name: Stanford Big Data Initiative in International Macro-Finance
-        date: 2023
-        issuer: Stanford University
+      - label: "2023"
+        details: Stanford Big Data Initiative in International Macro-Finance
 
     Services:
-      - name: Organizer, Finance, Macro, and International (FMI) Student Workshop, UW-Madison
-        summary: "2024"
+      - label: "2024"
+        details: Organizer, Finance, Macro, and International (FMI) Student Workshop, UW-Madison
 
-      - name: Coordinator, International Economics Group Weekly Meetings, UW-Madison
-        summary: 2023 to 2025
+      - label: 2023 to 2025
+        details: Coordinator, International Economics Group Weekly Meetings, UW-Madison
+
+      - label: Referee
+        details: Applied Economics
+
+    Miscellaneous:
+      - label: Nationality
+        details: Republic of Korea
+
+      - label: Languages
+        details: Korean (native), English (fluent), Chinese Mandarin (intermediate)
+
+      - label: Software
+        details: Julia, Fortran, MATLAB, R, Stata, Dynare
 
     References:
       - name: "[Charles Engel](https://users.ssc.wisc.edu/~cengel/)"
+        reference: Donald D. Hester Distinguished Chair in Economics, University of Wisconsin-Madison
         summary: Donald D. Hester Distinguished Chair in Economics, University of Wisconsin-Madison
-
+ 
       - name: "[Kim Ruhl](https://www.kimjruhl.com)"
+        reference: Curt and Sue Culver Chair in Economics, University of Wisconsin-Madison
         summary: Curt and Sue Culver Chair in Economics, University of Wisconsin-Madison
-
+ 
       - name: "[Louphou Coulibaly](https://sites.google.com/site/louphoucoulibaly)"
+        reference: Assistant Professor in Economics, University of Wisconsin-Madison
         summary: Assistant Professor in Economics, University of Wisconsin-Madison
