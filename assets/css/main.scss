@@ -92,10 +92,16 @@ article ol {
   display: none;
 }
 
-// CV page: smaller section headings
+// CV page: compact section headings
 .cv .card-title {
-  font-size: 1.25rem;
-  margin-bottom: 0.75rem;
+  font-size: 1.05rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+// CV page: entry names in normal weight, not bold
+.cv .title {
+  font-weight: 400 !important;
 }
 
 // CV page: push the date block to the right edge of its column
