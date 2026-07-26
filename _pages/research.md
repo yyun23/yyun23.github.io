@@ -38,7 +38,7 @@ with [Soyoung Kim](https://sites.google.com/view/soyoungkim-econ) and [Yongseung
 _Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
 [SSRN](https://dx.doi.org/10.2139/ssrn.4171236) | [Publisher's Link](https://doi.org/10.1016/j.jedc.2026.105300)
 
-##### Pre-doctoral Publications in Other Disciplines
+#### Pre-doctoral Publications in Other Disciplines
 
 **Impacts of Public Medical Insurance Reforms on Households: An Application of Fuzzy Cognitive Map for Scenario Evaluation**<br>
 with [Hye-Young Jung](https://www.researchgate.net/profile/Hye-Young-Jung-2)<br>
