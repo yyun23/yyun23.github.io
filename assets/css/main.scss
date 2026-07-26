@@ -91,3 +91,19 @@ article ol {
 .cv .location {
   display: none;
 }
+
+// CV page: smaller section headings
+.cv .card-title {
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+// CV page: push the date block to the right edge of its column
+.cv .date-column table {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.cv .date-column td {
+  text-align: right;
+}
