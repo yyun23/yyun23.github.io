@@ -23,9 +23,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Ph.D. student in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). I hold an M.A. in Economics, a B.A. in Economics, and a B.S. in Statistics from [Seoul National University](https://econ.snu.ac.kr/). My research interests are in international economics and macroeconomics.
+Hello! I am a Ph.D. student in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests are in international economics and macroeconomics. **I will be on the job market for the 2026-2027 academic year.**
 
-In summer 2026, I am visiting the Federal Reserve Board as a dissertation fellow.
+In summer 2026, I am visiting the Federal Reserve Board as a dissertation fellow. I worked at the International Monetary Fund as an intern in summer 2025.
 
 **Contact Information:**
 
