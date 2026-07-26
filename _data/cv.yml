@@ -1,189 +1,159 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Yeonggyu Yun
+  label: PhD Candidate in Economics
+  email: yyun23@wisc.edu
+  location: Madison, WI
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+  summary: International Economics, Macroeconomics, Finance
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Wisconsin-Madison
+        location: Madison, WI
+        area: Economics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2021
+        end_date: 2027 (Expected)
+
+      - institution: University of Wisconsin-Madison
+        location: Madison, WI
+        area: Economics
+        studyType: MS
+        start_date: 2021
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - En route to PhD
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Seoul National University
+        location: Seoul, Republic of Korea
+        area: Economics
+        studyType: MA
+        start_date: 2020
+        end_date: 2022
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - institution: Seoul National University
+        location: Seoul, Republic of Korea
+        area: Economics and Statistics
+        studyType: BA and BS
+        start_date: 2013
+        end_date: 2020
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+    Professional Appointments:
+      - company: Federal Reserve Board
+        position: Dissertation Fellow, Division of International Finance
+        location: Washington, DC
+        start_date: June 2026
+        end_date: August 2026
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: International Monetary Fund
+        position: Project Officer
+        location: Washington, DC
+        start_date: February 2026
+        end_date: April 2026
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: International Monetary Fund
+        position: Fund Internship Program
+        location: Washington, DC
+        start_date: June 2025
+        end_date: August 2025
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Best PhD Student Paper
+        date: 2024
+        awarder: Joint Conference of the Allied Korea Finance Associations
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Best PhD Student Paper
+        date: 2023
+        awarder: Korean Finance Association
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Best Master's Thesis
+        date: 2022
+        awarder: College of Social Sciences, Seoul National University
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: Runner-up Undergraduate Thesis
+        date: 2020
+        awarder: College of Social Sciences, Seoul National University
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: The 46th Annual Six Star Salute
+        date: 2017
+        awarder: United Services Organization
+        summary: Awarded to 80 exemplary personnel among the entire Korean and U.S. Forces in Korea
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Scholarships:
+      - title: Jerome A. and Mary Straka Fellowship
+        date: 2026 to 2027
+        awarder: University of Wisconsin-Madison
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Overseas PhD Fellowship
+        date: 2024 to 2026
+        awarder: DB Cultural Foundation
 
-      - name: English
-        summary: "Fluent"
+      - title: Overseas PhD Fellowship
+        date: 2021 to 2026
+        awarder: Korea Foundation for Advanced Studies
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Conference Presentation Award
+        date: 2024
+        awarder: UW-Madison Student Research Grants Competition
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
+      - title: Juli Plant Grainger Summer Research Fellowship
+        date: 2024
+        awarder: University of Wisconsin-Madison
+
+      - title: Graduate Student Scholarship
+        date: 2020 to 2021
+        awarder: Kwanjeong Educational Foundation
+
+      - title: Brain Korea 21+ Research Fellowship
+        date: 2020 to 2021
+        awarder: Seoul National University
+
+      - title: Graduate Research Grant
+        date: 2020
+        awarder: College of Social Sciences, Seoul National University
+
+      - title: Undergraduate Research Grant
+        date: 2019
+        awarder: College of Social Sciences, Seoul National University
+
+
+    Seminar and Conference Presentations:
+      - name: 2026
+        summary: UMN-UW International/Macro Student Workshop; Federal Reserve Board
+
+      - name: 2025
+        summary: AFA PhD Poster Session*; Midwest Economics Association; Midwest Macro (Spring)*; Economics Graduate Student Conference at WashU; Bank of Mexico Biennial Conference on Financial Stability*
+
+      - name: 2024
+        summary: Joint Conference of the Allied Korea Finance Associations*; Asian Meeting of the Econometric Society; International Institute of Public Finance; UW-Madison Summer Research Fellowship Seminar; UMN-UW International/Macro Student Workshop; FMA*; Australasian Finance and Banking Conference*
+
+      - name: 2023
+        summary: Midwest Macro (Spring/Fall); Sydney Banking and Financial Stability Conference*; KAIST (Seoul)*; Korean Finance Association*
+
+      - name: 2020
+        summary: Korean Association for Survey Research Spring Conference*
+
+      - name: Note
+        summary: "*: presented by co-author"
+
+    Additional Training:
+      - name: Stanford Big Data Initiative in International Macro-Finance
+        date: 2023
         issuer: Stanford University
-        icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    Services:
+      - name: Organizer, Finance, Macro, and International (FMI) Student Workshop, UW-Madison
+        summary: "2024"
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Coordinator, International Economics Group Weekly Meetings, UW-Madison
+        summary: 2023 to 2025
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: [Charles Engel](https://users.ssc.wisc.edu/~cengel/)
+        summary: Donald D. Hester Distinguished Chair in Economics, University of Wisconsin-Madison
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: [Kim Ruhl](https://www.kimjruhl.com)
+        summary: Curt and Sue Culver Chair in Economics, University of Wisconsin-Madison, ruhl2@wisc.edu
+
+      - name: [Louphou Coulibaly](https://sites.google.com/site/louphoucoulibaly)
+        summary: Assistant Professor in Economics, University of Wisconsin-Madison, lcoulibaly@wisc.edu
