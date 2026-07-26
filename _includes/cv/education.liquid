@@ -8,7 +8,7 @@
 
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for entry in entries %}
-    <li class="list-group-item">
+    <li class="list-group-item edu-item">
       <div class="row">
         <div class="col-xs-8 col-sm-9 col-md-9">
           {% capture study_type %}
@@ -37,7 +37,7 @@
           {% endif %}
 
           {% if entry.institution %}
-            <h6 class="font-weight-light" style="font-size: 0.9rem">{{ entry.institution }}</h6>
+            <h6 class="font-weight-light" style="font-size: 0.95rem">{{ entry.institution }}</h6>
           {% endif %}
 
           {% if entry.courses or entry.highlights %}
