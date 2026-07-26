@@ -105,14 +105,14 @@ article ol {
   font-size: 0.95rem;
 }
 
-// CV page: push the date block to the right edge of its column
+// CV page: centre the date block inside its column
 .cv .date-column table {
   margin-left: auto;
-  margin-right: 0;
+  margin-right: auto;
 }
 
 .cv .date-column td {
-  text-align: right;
+  text-align: center;
 }
 
 // CV page: spacing around section cards
@@ -143,4 +143,19 @@ article ol {
 // CV page: space between reference entries, matching Education
 .cv li:has(.ref-name) + li {
   margin-top: 0.75rem;
+}
+
+// CV page: keep the date column sized on narrow screens
+// The theme only defines col-sm-* and up, so below 576px the columns lose
+// their width and the date badge ends up hugging the card edge.
+@media (max-width: 575.98px) {
+  .cv .date-column {
+    flex: 0 0 32%;
+    max-width: 32%;
+  }
+
+  .cv .row > *:not(.date-column) {
+    flex: 0 0 68%;
+    max-width: 68%;
+  }
 }
