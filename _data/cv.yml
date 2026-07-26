@@ -3,10 +3,6 @@ cv:
   email: yyun23@wisc.edu
 
   sections:
-    Research Interests:
-      - label: Fields
-        details: International Economics, Macroeconomics, Finance
-
     Education:
       - institution: University of Wisconsin-Madison
         area: Economics
@@ -25,91 +21,88 @@ cv:
       - institution: Seoul National University
         area: Economics
         degree: MA
-        location: Seoul, Republic of Korea
+        location: Seoul, Korea
         start_date: 2020
         end_date: 2022
 
       - institution: Seoul National University
         area: Statistics
         degree: BS
-        location: Seoul, Republic of Korea
+        location: Seoul, Korea
         start_date: 2013
         end_date: 2020
 
       - institution: Seoul National University
         area: Economics
         degree: BA
-        location: Seoul, Republic of Korea
+        location: Seoul, Korea
         start_date: 2013
         end_date: 2020
 
     Professional Appointments:
-      - label: "2026"
-        details: Dissertation Fellow, Division of International Finance, Federal Reserve Board
+      - name: Dissertation Fellow, Federal Reserve Board
+        date: 2026
 
-      - label: "2026"
-        details: Project Officer, International Monetary Fund
+      - name: Project Officer, International Monetary Fund
+        date: 2026
 
-      - label: "2025"
-        details: Fund Internship Program, International Monetary Fund
+      - name: Fund Internship Program, International Monetary Fund
+        date: 2025
 
     Awards:
-      - label: "2024"
-        details: Best PhD Student Paper, Joint Conference of the Allied Korea Finance Associations
+      - name: Best PhD Student Paper, Joint Conference of the Allied Korea Finance Associations
+        date: 2024
 
-      - label: "2023"
-        details: Best PhD Student Paper, Korean Finance Association
+      - name: Best PhD Student Paper, Korean Finance Association
+        date: 2023
 
-      - label: "2022"
-        details: Best Master's Thesis, College of Social Sciences, Seoul National University
+      - name: Best Master's Thesis, College of Social Sciences, Seoul National University
+        date: 2022
 
-      - label: "2020"
-        details: Runner-up Undergraduate Thesis, College of Social Sciences, Seoul National University
+      - name: Runner-up Undergraduate Thesis, College of Social Sciences, Seoul National University
+        date: 2020
 
-      - label: "2017"
-        details: The 46th Annual Six Star Salute, United Services Organization
+      - name: The 46th Annual Six Star Salute, United Services Organization
+        date: 2017
 
     Scholarships:
-      - label: 2026 to 2027
-        details: Jerome A. and Mary Straka Fellowship, UW-Madison
+      - name: Jerome A. and Mary Straka Fellowship, UW-Madison
+        date: 2026 to 2027
 
-      - label: 2024 to 2026
-        details: Overseas PhD Fellowship, DB Cultural Foundation
+      - name: Overseas PhD Fellowship, DB Cultural Foundation
+        date: 2024 to 2026
 
-      - label: 2021 to 2026
-        details: Overseas PhD Fellowship, Korea Foundation for Advanced Studies
+      - name: Overseas PhD Fellowship, Korea Foundation for Advanced Studies
+        date: 2021 to 2026
 
-      - label: "2024"
-        details: Conference Presentation Award, UW-Madison Student Research Grants Competition
+      - name: Conference Presentation Award, UW-Madison Student Research Grants Competition
+        date: 2024
 
-      - label: "2024"
-        details: Juli Plant Grainger Summer Research Fellowship, UW-Madison
+      - name: Juli Plant Grainger Summer Research Fellowship, UW-Madison
+        date: 2024
 
-      - label: 2020 to 2021
-        details: Graduate Student Scholarship, Kwanjeong Educational Foundation
+      - name: Graduate Student Scholarship, Kwanjeong Educational Foundation
+        date: 2020 to 2021
 
-      - label: 2020 to 2021
-        details: Brain Korea 21+ Research Fellowship, Seoul National University
+      - name: Brain Korea 21+ Research Fellowship, Seoul National University
+        date: 2020 to 2021
 
-      - label: "2020"
-        details: Graduate Research Grant, College of Social Sciences, Seoul National University
+      - name: Graduate Research Grant, College of Social Sciences, Seoul National University
+        date: 2020
 
-      - label: "2019"
-        details: Undergraduate Research Grant, College of Social Sciences, Seoul National University
+      - name: Undergraduate Research Grant, College of Social Sciences, Seoul National University
+        date: 2019
 
     Additional Training:
-      - label: "2023"
-        details: Stanford Big Data Initiative in International Macro-Finance
+      - name: Stanford Big Data Initiative in International Macro-Finance
+        date: 2023
 
     Services:
-      - label: "2024"
-        details: Organizer, Finance, Macro, and International (FMI) Student Workshop, UW-Madison
+      - name: Organizer, Finance, Macro, and International (FMI) Student Workshop, UW-Madison
+        date: 2024
 
-      - label: 2023 to 2025
-        details: Coordinator, International Economics Group Weekly Meetings, UW-Madison
-
-      - label: Referee
-        details: Applied Economics
+      - name: Coordinator, International Economics Group Weekly Meetings, UW-Madison
+        date: 2023 to 2025
 
     Miscellaneous:
       - label: Nationality
@@ -125,11 +118,11 @@ cv:
       - name: "[Charles Engel](https://users.ssc.wisc.edu/~cengel/)"
         reference: Donald D. Hester Distinguished Chair in Economics, University of Wisconsin-Madison
         summary: Donald D. Hester Distinguished Chair in Economics, University of Wisconsin-Madison
- 
+
       - name: "[Kim Ruhl](https://www.kimjruhl.com)"
         reference: Curt and Sue Culver Chair in Economics, University of Wisconsin-Madison
         summary: Curt and Sue Culver Chair in Economics, University of Wisconsin-Madison
- 
+
       - name: "[Louphou Coulibaly](https://sites.google.com/site/louphoucoulibaly)"
         reference: Assistant Professor in Economics, University of Wisconsin-Madison
         summary: Assistant Professor in Economics, University of Wisconsin-Madison
