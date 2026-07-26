@@ -8,12 +8,12 @@ nav_order: 1
 _styles: ".post-header { display: none; }"
 ---
 
-### Job Market Paper
+#### Job Market Paper
 
 **Sudden Stops and Wealth Inequality**<br>
 Draft coming soon
 
-### Working Papers
+#### Working Papers
 
 **International Portfolio Choice with Infrequent Adjustment**<br>
 with [Annie Soyean Lee](https://www.anniesoyeanlee.com/)<br>
@@ -31,14 +31,14 @@ with [Yun-Soo Kim](https://sites.google.com/view/yunsookim)<br>
 _Revision requested_<br>
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433579)
 
-### Publications
+#### Publications
 
 **US Monetary Policy Uncertainty Spillover and the Role of Exchange Rate Regime**<br>
 with [Soyoung Kim](https://sites.google.com/view/soyoungkim-econ) and [Yongseung Jung](https://www.researchgate.net/profile/Yongseung-Jung/research)<br>
 _Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
 [SSRN](https://dx.doi.org/10.2139/ssrn.4171236) | [Publisher's Link](https://doi.org/10.1016/j.jedc.2026.105300)
 
-#### Pre-doctoral Publications in Other Disciplines
+##### Pre-doctoral Publications in Other Disciplines
 
 **Impacts of Public Medical Insurance Reforms on Households: An Application of Fuzzy Cognitive Map for Scenario Evaluation**<br>
 with [Hye-Young Jung](https://www.researchgate.net/profile/Hye-Young-Jung-2)<br>
