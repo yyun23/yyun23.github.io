@@ -62,4 +62,4 @@ with Yunsoo Cho and [Hye-Young Jung](https://www.researchgate.net/profile/Hye-Yo
 **Arbitrage Opportunities Induced from Differences in Relative Price of Assets between Exchanges**<br>
 with Gunhee Cho and [Hye-Young Jung](https://www.researchgate.net/profile/Hye-Young-Jung-2)<br>
 *Journal of the Korean Data and Information Science Society*, 30(1), 45-56, 2019.<br>
-[Publisher's Link]([PASTE_URL](http://www.kdiss.org/journal/view.html?uid=2454&sort=book_Seq&scale=&key=year&keyword=&s_v=30&s_n=1&pn=vol&year=2019&vmd=Full))
+[Publisher's Link](http://www.kdiss.org/journal/view.html?uid=2454&sort=book_Seq&scale=&key=year&keyword=&s_v=30&s_n=1&pn=vol&year=2019&vmd=Full)
