@@ -128,7 +128,12 @@ article ol {
   margin-top: 0.75rem;
 }
 
-// CV page: reference detail line matches the entry text elsewhere
+// CV page: reference name stays bold, detail matches the entry text elsewhere
+.cv .ref-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
 .cv .ref-detail {
   font-size: 0.95rem;
   font-weight: 300;
