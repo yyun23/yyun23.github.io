@@ -127,7 +127,8 @@
                               <tbody>
                                 <tr>
                                   <td>
-                                    {% if entry_date | strip != '' %}
+                                    {% assign entry_date = entry_date | strip %}
+                                    {% if entry_date != '' %}
                                       <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
                                         {{- entry_date | strip -}}
                                       </span>

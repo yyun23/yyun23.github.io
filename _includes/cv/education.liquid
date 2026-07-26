@@ -15,20 +15,29 @@
             {% if entry.studyType %}{{ entry.studyType }}{% elsif entry.degree %}{{ entry.degree }}{% endif %}
           {% endcapture %}
 
-          {% if entry.url %}
-            <h6 class="title font-weight-bold">
-              <a href="{{ entry.url }}">{{ study_type }}</a>
-            </h6>
-          {% elsif study_type != '' %}
-            <h6 class="title font-weight-bold">{{ study_type }}</h6>
+          {% capture degree_line %}
+            {% if study_type != '' and entry.area %}
+              {{ study_type | strip }} in {{ entry.area }}
+            {% elsif study_type != '' %}
+              {{ study_type | strip }}
+            {% elsif entry.area %}
+              {{ entry.area }}
+            {% endif %}
+          {% endcapture %}
+
+          {% assign degree_line = degree_line | strip %}
+          {% if degree_line != '' %}
+            {% if entry.url %}
+              <h6 class="title font-weight-light">
+                <a href="{{ entry.url }}">{{ degree_line }}</a>
+              </h6>
+            {% else %}
+              <h6 class="title font-weight-light">{{ degree_line }}</h6>
+            {% endif %}
           {% endif %}
 
           {% if entry.institution %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.institution }}</h6>
-          {% endif %}
-
-          {% if entry.area %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ entry.area }}</h6>
+            <h6 class="font-weight-light" style="font-size: 0.95rem">{{ entry.institution }}</h6>
           {% endif %}
 
           {% if entry.courses or entry.highlights %}
