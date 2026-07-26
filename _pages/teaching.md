@@ -5,6 +5,7 @@ title: Teaching
 description:
 nav: true
 nav_order: 2
+_styles: ".post-header { display: none; }"
 ---
 
 ## University of Wisconsin-Madison
