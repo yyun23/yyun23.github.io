@@ -75,3 +75,9 @@ article details p {
   font-size: 0.9rem;
   text-align: justify;
 }
+
+// Keep lists clear of the floated profile image
+article ul,
+article ol {
+  display: flow-root;
+}
