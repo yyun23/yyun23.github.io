@@ -104,16 +104,6 @@ cv:
       - name: Coordinator, International Economics Group Weekly Meetings, UW-Madison
         date: 2023 to 2025
 
-    Miscellaneous:
-      - label: Nationality
-        details: Republic of Korea
-
-      - label: Languages
-        details: Korean (native), English (fluent), Chinese Mandarin (intermediate)
-
-      - label: Software
-        details: Julia, Fortran, MATLAB, R, Stata, Dynare
-
     References:
       - name: "[Charles Engel](https://users.ssc.wisc.edu/~cengel/)"
         reference: Donald D. Hester Distinguished Chair in Economics, University of Wisconsin-Madison
