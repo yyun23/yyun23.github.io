@@ -159,3 +159,13 @@ article ol {
     max-width: 68%;
   }
 }
+
+// Hide the site footer (copyright / powered-by line)
+// body reserves 70px for the fixed footer, so reclaim it too.
+footer[role="contentinfo"] {
+  display: none;
+}
+
+body {
+  padding-bottom: 0;
+}
