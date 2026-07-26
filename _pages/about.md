@@ -25,10 +25,10 @@ latest_posts:
 
 Hello! I am a Ph.D. student in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). I hold an M.A. in Economics, a B.A. in Economics, and a B.S. in Statistics from [Seoul National University](https://econ.snu.ac.kr/). My research interests are in international economics and macroeconomics.
 
-In summer 2026, I am visiting the Federal Reserve Board (Division of International Finance) as a dissertation fellow.
+In summer 2026, I am visiting the Federal Reserve Board as a dissertation fellow.
 
 **Contact Information:**
 
-- E-mail: [yyun23@wisc.edu](yyun23@wisc.edu)
+  - E-mail: [yyun23@wisc.edu](yyun23@wisc.edu)
 
-- Address: Social Science 6408, 1180 Observatory Drive, Madison, WI 53706
+  - Address: Social Science 6408, 1180 Observatory Drive, Madison, WI 53706
