@@ -40,7 +40,7 @@
 
         <!-- Summary -->
         {% if cv.summary %}
-          <div class="card mt-3 p-3">
+          <div class="card cv-card p-3">
             <h3 class="card-title font-weight-medium">Professional Summary</h3>
             <p>{{ cv.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           </div>
@@ -54,7 +54,7 @@
         {% assign combined_experience = exp | concat: vol %}
         {% if combined_experience.size > 0 %}
           <a class="anchor" id="experience"></a>
-          <div class="card mt-3 p-3">
+          <div class="card cv-card p-3">
             <h3 class="card-title font-weight-medium">Experience</h3>
             <div>
               {% assign entries = combined_experience %}
@@ -74,7 +74,7 @@
           {% endif %}
 
           <a class="anchor" id="{{ section_title | slugify }}"></a>
-          <div class="card mt-3 p-3">
+          <div class="card cv-card p-3">
             <h3 class="card-title font-weight-medium">{{ section_title }}</h3>
             <div>
               {% assign first_entry = section_entries | first %}
