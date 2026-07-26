@@ -127,3 +127,10 @@ article ol {
 .cv .edu-item + .edu-item {
   margin-top: 0.75rem;
 }
+
+// CV page: reference detail line matches the entry text elsewhere
+.cv .ref-detail {
+  font-size: 0.95rem;
+  font-weight: 300;
+  margin-bottom: 0;
+}
