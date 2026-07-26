@@ -116,9 +116,11 @@ article ol {
 }
 
 // CV page: spacing around section cards
+// Padding compensates for the built-in gaps at the bottom (17px) and right (19px)
+// so that top/bottom and left/right end up visually equal.
 .cv .cv-card {
   margin-top: 1.5rem;
-  padding: 1rem 1rem 0.5rem;
+  padding: 1rem 0 0 1.125rem;
 }
 
 // CV page: breathing room between Education entries
