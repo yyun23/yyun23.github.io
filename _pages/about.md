@@ -29,6 +29,6 @@ In summer 2026, I am visiting the Federal Reserve Board as a dissertation fellow
 
 **Contact Information:**
 
-  - E-mail: [yyun23@wisc.edu](yyun23@wisc.edu)
+- E-mail: [yyun23@wisc.edu](mailto:yyun23@wisc.edu)
 
-  - Address: Social Science 6408, 1180 Observatory Drive, Madison, WI 53706
+- Address: Social Science 6408, 1180 Observatory Drive, Madison, WI 53706
