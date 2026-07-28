@@ -11,7 +11,8 @@ _styles: ".post-header { display: none; }"
 #### Job Market Paper
 
 **Sudden Stops and Wealth Inequality**<br>
-Draft coming soon
+Draft coming soon <br>
+<details><summary>Abstract</summary><p>Wealth inequality deepens the contractions in GDP, domestic absorption, and asset prices that accompany Sudden Stops, which are financial crises marked by excessive capital outflows. European household survey data locate the adjustment behind these contractions on the leveraged side of the wealth distribution: leveraged households cut debt and assets together and stop acquiring assets when the crisis hits, while households that hold the same assets without debt reduce neither their holdings nor their purchases. I build a tractable model with heterogeneous households subject to borrowing constraints, where the borrowing limit depends on the market value of wealth, and characterize analytically how the wealth distribution maps into the size of the contraction. Greater wealth concentration raises the mass of households at the borrowing limit and thins the unconstrained side of the asset market. When the borrowing limit tightens, this intensifies the fire sale pressure on asset prices and amplifies the Fisherian debt deflation that drives the crisis. I embed the mechanism in a quantitative model, with which I conduct an event study of Sudden Stops. The quantitative model produces sharper contractions when wealth is more concentrated, consistent with the cross-country evidence.</p></details>
 
 #### Working Papers
 
