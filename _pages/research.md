@@ -14,6 +14,13 @@ _styles: ".post-header { display: none; }"
 Draft coming soon <br>
 <details><summary>Abstract</summary><p>Wealth inequality deepens the contractions in GDP, domestic absorption, and asset prices that accompany Sudden Stops, which are financial crises marked by excessive capital outflows. European household survey data locate the adjustment behind these contractions on the leveraged side of the wealth distribution: leveraged households cut debt and assets together and stop acquiring assets when the crisis hits, while households that hold the same assets without debt reduce neither their holdings nor their purchases. I build a tractable model with heterogeneous households subject to borrowing constraints, where the borrowing limit depends on the market value of wealth, and characterize analytically how the wealth distribution maps into the size of the contraction. Greater wealth concentration raises the mass of households at the borrowing limit and thins the unconstrained side of the asset market. When the borrowing limit tightens, this intensifies the fire sale pressure on asset prices and amplifies the Fisherian debt deflation that drives the crisis. I embed the mechanism in a quantitative model, with which I conduct an event study of Sudden Stops. The quantitative model produces sharper contractions when wealth is more concentrated, consistent with the cross-country evidence.</p></details>
 
+#### Publications
+
+**US Monetary Policy Uncertainty Spillover and the Role of Exchange Rate Regime** | [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S0165188926000461) | [SSRN](https://dx.doi.org/10.2139/ssrn.4171236)<br>
+with [Soyoung Kim](https://sites.google.com/view/soyoungkim-econ) and [Yongseung Jung](https://www.researchgate.net/profile/Yongseung-Jung/research)<br>
+_Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
+<details><summary>Abstract</summary><p>We analyze the international spillover effects of US monetary policy uncertainty shocks on countries with fixed versus flexible exchange rate regimes. Our findings show that such shocks lead to a larger contraction in countries with flexible exchange rates than in those with fixed exchange rates, contradicting the conventional view that flexible exchange rates serve as a buffer against external shocks. We also document that US monetary policy uncertainty shocks raise economic uncertainty more strongly in countries with flexible exchange rate regimes. On the theoretical side, we demonstrate that a standard small open economy New Keynesian DSGE model cannot replicate this empirical result, but an augmented model that incorporates the direct international spillover of policy uncertainty is able to reproduce the findings.</p></details>
+
 #### Working Papers
 
 **International Portfolio Choice with Infrequent Adjustment**<br>
@@ -31,13 +38,6 @@ with [Stefano Lord-Medrano](https://www.stefanomlm.com/)<br>
 with [Yun-Soo Kim](https://sites.google.com/view/yunsookim)<br>
 _Revision requested_<br>
 <details><summary>Abstract</summary><p>We investigate how dual holders that simultaneously hold loans and equity shares of a firm respond to stock mispricing of the firm. Using the fire-sales shock driven by mutual fund outflows as a measure of stock mispricing, we find that dual holders provide lower loan spreads in times of fire-sales shocks. The result is driven by dual holders' incentive to support the firm as long-term investors. We find that the loan spread discount is more pronounced when dual holders are lead arrangers of the loan and when they hold larger equity shares of the firm. Dual holders offer lower spreads to help firms maintain investments, as the effect is greater when firms exhibit better growth prospects or face financial constraints due to higher equity financing costs. We establish causality  by exploiting mergers between banks. In a firm-level analysis, we find that dual holders' loan provisions offset the negative effects of the fire-sales shock on firms' capital investments.</p></details>
-
-#### Publications
-
-**US Monetary Policy Uncertainty Spillover and the Role of Exchange Rate Regime** | [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S0165188926000461) | [SSRN](https://dx.doi.org/10.2139/ssrn.4171236)<br>
-with [Soyoung Kim](https://sites.google.com/view/soyoungkim-econ) and [Yongseung Jung](https://www.researchgate.net/profile/Yongseung-Jung/research)<br>
-_Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
-<details><summary>Abstract</summary><p>We analyze the international spillover effects of US monetary policy uncertainty shocks on countries with fixed versus flexible exchange rate regimes. Our findings show that such shocks lead to a larger contraction in countries with flexible exchange rates than in those with fixed exchange rates, contradicting the conventional view that flexible exchange rates serve as a buffer against external shocks. We also document that US monetary policy uncertainty shocks raise economic uncertainty more strongly in countries with flexible exchange rate regimes. On the theoretical side, we demonstrate that a standard small open economy New Keynesian DSGE model cannot replicate this empirical result, but an augmented model that incorporates the direct international spillover of policy uncertainty is able to reproduce the findings.</p></details>
 
 #### Pre-doctoral Publications in Other Disciplines
 
