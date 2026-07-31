@@ -108,7 +108,7 @@ article ol {
 // CV page: spacing around section cards, equal margins on both sides
 .cv .cv-card {
   margin-top: 1.5rem;
-  padding: 1rem 1.125rem 0 1.125rem;
+  padding: 1rem 10px 0 10px;
 }
 
 // CV page: reference name stays bold, detail matches the entry text elsewhere
@@ -136,11 +136,11 @@ article ol {
 
 // CV page: the date badge starts on the same left edge as the reference names.
 // The 30px left padding absorbs the .row negative margin (-15px) plus the
-// column's own 15px gutter. A fixed 112px column fits the widest badge (78px)
+// column's own 15px gutter. A fixed 100px column holds the 70px badge
 // at every screen width, so no breakpoint override is needed.
 .cv .date-column {
-  flex: 0 0 112px;
-  max-width: 112px;
+  flex: 0 0 100px;
+  max-width: 100px;
   padding-left: 30px;
   padding-right: 0;
 }
@@ -160,7 +160,17 @@ article ol {
   flex: 1 1 0%;
   max-width: none;
   min-width: 0;
-  padding-left: 0.75rem;
+  padding-left: 0;
+}
+
+// CV page: every date badge is the same size
+// min-width is set inline in the template, so it needs !important here.
+.cv .badge {
+  min-width: 0 !important;
+  width: 70px;
+  padding-left: 3px;
+  padding-right: 3px;
+  font-size: 11px;
 }
 
 // Hide the site footer (copyright / powered-by line)
