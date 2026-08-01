@@ -36,7 +36,7 @@ with [Stefano Lord-Medrano](https://www.stefanomlm.com/)<br>
 
 **Stock Mispricing and Dual Holders' Loan Pricing** | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4433579)<br>
 with [Yun-Soo Kim](https://sites.google.com/view/yunsookim)<br>
-_Revision requested_<br>
+_Revision requested at Journal of Banking and Finance_<br>
 <details><summary>Abstract</summary><p>We investigate how dual holders that simultaneously hold loans and equity shares of a firm respond to stock mispricing of the firm. Using the fire-sales shock driven by mutual fund outflows as a measure of stock mispricing, we find that dual holders provide lower loan spreads in times of fire-sales shocks. The result is driven by dual holders' incentive to support the firm as long-term investors. We find that the loan spread discount is more pronounced when dual holders are lead arrangers of the loan and when they hold larger equity shares of the firm. Dual holders offer lower spreads to help firms maintain investments, as the effect is greater when firms exhibit better growth prospects or face financial constraints due to higher equity financing costs. We establish causality  by exploiting mergers between banks. In a firm-level analysis, we find that dual holders' loan provisions offset the negative effects of the fire-sales shock on firms' capital investments.</p></details>
 
 #### Pre-doctoral Publications in Other Disciplines
