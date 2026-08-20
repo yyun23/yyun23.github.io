@@ -39,7 +39,7 @@ with [Yun-Soo Kim](https://sites.google.com/view/yunsookim)<br>
 _Revision requested at Journal of Banking and Finance_<br>
 <details><summary>Abstract</summary><p>We investigate how dual holders that simultaneously hold loans and equity shares of a firm respond to stock mispricing of the firm. Using the fire-sales shock driven by mutual fund outflows as a measure of stock mispricing, we find that dual holders provide lower loan spreads in times of fire-sales shocks. The result is driven by dual holders' incentive to support the firm as long-term investors. We find that the loan spread discount is more pronounced when dual holders are lead arrangers of the loan and when they hold larger equity shares of the firm. Dual holders offer lower spreads to help firms maintain investments, as the effect is greater when firms exhibit better growth prospects or face financial constraints due to higher equity financing costs. We establish causality  by exploiting mergers between banks. In a firm-level analysis, we find that dual holders' loan provisions offset the negative effects of the fire-sales shock on firms' capital investments.</p></details>
 
-#### Pre-doctoral Publications
+#### Pre-doctoral Publications in Other Disciplines
 
 **Impacts of Public Medical Insurance Reforms on Households: An Application of Fuzzy Cognitive Map for Scenario Evaluation** | [Publisher's Link](https://doi.org/10.1007/s00500-021-05617-4)<br>
 with [Hye-Young Jung](https://www.researchgate.net/profile/Hye-Young-Jung-2)<br>
