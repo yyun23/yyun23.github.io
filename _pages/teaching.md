@@ -17,18 +17,18 @@ _styles: ".post-header { display: none; }"
 
   _Solution of RBC Models_
 
-  - [Solution of neoclassical growth model and Blanchard-Kahn condition](/assets/pdf/BKnote.pdf)
-  - Dynare codes: [nonlinear version](/assets/pdf/Nonlinear_RBC.mod), [linear version](/assets/pdf/Linear_RBC.mod)
+  - [Solution of neoclassical growth model and Blanchard-Kahn condition](/assets/pdf/TA/BKnote.pdf)
+  - Dynare codes: [nonlinear version](/assets/pdf/TA/Nonlinear_RBC.mod), [linear version](/assets/pdf/TA/Linear_RBC.mod)
 
   _Dynamic Programming and Applications_
 
-  - [Metric spaces and normed vector spaces](/assets/pdf/Handout%201_sol.pdf)
-  - [Contraction mapping theorem](/assets/pdf/Handout%202_sol.pdf)
-  - [The theorem of maximum and the principle of optimality](/assets/pdf/Handout%203.pdf)
-  - [Consumption and savings choice model, Sections 17.1-3 of Ljungqvist and Sargent (2018)](/assets/pdf/Handout%204.pdf)
-  - [McCall (1970) job search model](/assets/pdf/Handout%205.pdf)
-  - [Consumption and savings choice model, Sections 17.4-6 of Ljungqvist and Sargent (2018)](/assets/pdf/Handout%206.pdf)
-  - [Hopenhayn and Rogerson (1993) model of firm entry and exit](/assets/pdf/Handout%207.pdf)
+  - [Metric spaces and normed vector spaces](/assets/pdf/TA/Handout%201_sol.pdf)
+  - [Contraction mapping theorem](/assets/pdf/TA/Handout%202_sol.pdf)
+  - [The theorem of maximum and the principle of optimality](/assets/pdf/TA/Handout%203.pdf)
+  - [Consumption and savings choice model, Sections 17.1-3 of Ljungqvist and Sargent (2018)](/assets/pdf/TA/Handout%204.pdf)
+  - [McCall (1970) job search model](/assets/pdf/TA/Handout%205.pdf)
+  - [Consumption and savings choice model, Sections 17.4-6 of Ljungqvist and Sargent (2018)](/assets/pdf/TA/Handout%206.pdf)
+  - [Hopenhayn and Rogerson (1993) model of firm entry and exit](/assets/pdf/TA/Handout%207.pdf)
 
   _Supplementary Notes_
 
