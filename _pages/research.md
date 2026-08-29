@@ -22,10 +22,6 @@ _Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
 
 #### Working Papers
 
-**International Portfolio Choice with Infrequent Adjustment**<br>
-with [Annie Soyean Lee](https://www.anniesoyeanlee.com/)<br>
-Draft coming soon
-
 **FX Interventions in a Small Open Economy: The Case of Domestic Non-Deliverable Forwards** | [Link](https://yyun23.github.io/assets/pdf/papers/LMY_DNDF.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4992672)<br>
 with [Stefano Lord-Medrano](https://www.stefanomlm.com/)<br>
 <details><summary>Abstract</summary><p>We study the effects of domestic non-deliverable forwards (DNDF) on the level and volatility of the USD/MXN nominal exchange rate. We focus on the introduction of the DNDF policy by the Bank of Mexico in 2017 and find that the first announcement of the policy was successful in mitigating both depreciation pressure and volatility of the USD/MXN exchange rate. Our estimates show an appreciation of the Mexican Peso by 32.91 cents after the announcement of the policy and a reduction in the option-implied exchange rate volatility of different maturities by 40 cents on average. We rationalize our findings using a model of a small open economy with collateral constraints and show that the DNDF policy can be used to mitigate severity of a self-fulfilling currency crisis, thereby counteracting the downward pressure on the domestic currency.</p></details>
@@ -37,6 +33,10 @@ with [Stefano Lord-Medrano](https://www.stefanomlm.com/)<br>
 with [Yun-Soo Kim](https://sites.google.com/view/yunsookim)<br>
 _Revision requested at Journal of Banking and Finance_<br>
 <details><summary>Abstract</summary><p>We investigate how dual holders that simultaneously hold loans and equity shares of a firm respond to stock mispricing of the firm. Using the fire-sales shock driven by mutual fund outflows as a measure of stock mispricing, we find that dual holders provide lower loan spreads in times of fire-sales shocks. The result is driven by dual holders' incentive to support the firm as long-term investors. We find that the loan spread discount is more pronounced when dual holders are lead arrangers of the loan and when they hold larger equity shares of the firm. Dual holders offer lower spreads to help firms maintain investments, as the effect is greater when firms exhibit better growth prospects or face financial constraints due to higher equity financing costs. We establish causality  by exploiting mergers between banks. In a firm-level analysis, we find that dual holders' loan provisions offset the negative effects of the fire-sales shock on firms' capital investments.</p></details>
+
+**International Portfolio Choice with Infrequent Adjustment**<br>
+with [Annie Soyean Lee](https://www.anniesoyeanlee.com/)<br>
+Draft coming soon
 
 #### Pre-doctoral Publications in Other Fields
 
