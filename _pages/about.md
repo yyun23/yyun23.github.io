@@ -25,7 +25,7 @@ latest_posts:
 
 Hello! I am a Ph.D. student in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests are in international economics and macroeconomics. **I will be on the job market for the 2026-2027 academic year.**
 
-In summer 2026, I am visiting the Federal Reserve Board as a dissertation fellow. I worked at the International Monetary Fund as an intern in summer 2025.
+In summer 2026, I visited the Federal Reserve Board as a dissertation fellow in the Division of International Finance. I worked at the International Monetary Fund as an intern in summer 2025.
 
 **Contact Information:**
 
