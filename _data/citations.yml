@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-09-02'
 papers:
   GPOeunsAAAAJ:4DMP91E08xMC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: 'FX Interventions in a Small Open Economy: The Case of Domestic Non-Deliverable Forwards'
     year: '2024'
+  GPOeunsAAAAJ:IWHjjKOFINEC:
+    citations: 0
+    title: 'Sudden Stops and Wealth Inequality: The Severity of Downturns'
+    year: '2026'
   GPOeunsAAAAJ:LkGwnXOMwfcC:
     citations: 9
     title: 'Effects of uncertainty shocks on household consumption and working hours: a fuzzy cognitive map-based approach'
@@ -22,7 +26,7 @@ papers:
     title: Stock Mispricing and Dual Holders' Loan Pricing
     year: '2023'
   GPOeunsAAAAJ:WF5omc3nYNoC:
-    citations: 8
+    citations: 9
     title: 'Impacts of public medical insurance reforms on households: An application of fuzzy cognitive map for scenario evaluation'
     year: '2021'
   GPOeunsAAAAJ:YsMSGLbcyi4C:
