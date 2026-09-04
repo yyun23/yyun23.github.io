@@ -5,7 +5,7 @@ title: Research
 description:
 nav: true
 nav_order: 1
-_styles: ".post-header { display: none; }"
+_styles: ".post-header { display: none; } article h4 { margin-bottom: 1.5rem; }"
 ---
 
 #### Job Market Paper
