@@ -10,22 +10,17 @@ _styles: ".post-header { display: none; }"
 
 #### Job Market Paper
 
-
 **Sudden Stops and Wealth Inequality** | [Link](https://yyun23.github.io/assets/pdf/papers/Yun_JMP.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7346466)<br>
 <details><summary>Abstract</summary><p>Countries with greater wealth inequality experience deeper recessions during episodes of abrupt capital outflows known as sudden stops. Household-level data show that more unequal countries have a higher share of indebted households, whose average debt and asset values fall more during sudden stops. Using a tractable model with heterogeneous households subject to borrowing constraints, I analytically characterize a mechanism that links the cross-country and household-level evidence. Greater inequality increases the fraction of constrained households, amplifying deleveraging and declines in asset prices and aggregate consumption following an adverse aggregate shock. I extend the model to an infinite horizon to assess quantitative importance of the mechanism. A 0.01 increase in the wealth Gini adds 0.07 and 0.11 percentage points to GDP and consumption declines per percentage point of capital outflow during a sudden stop, consistent with data. Optimal taxes on wealth and external debt with commitment raise social welfare by 11.24% in consumption-equivalent terms relative to to the equilibrium without taxes.</p></details>
 
-
 #### Publications
-
 
 **US Monetary Policy Uncertainty Spillover and the Role of Exchange Rate Regime** | [Link](https://yyun23.github.io/assets/pdf/papers/KJY_ExchangeRateRegime.pdf) | [Publisher's Link](https://www.sciencedirect.com/science/article/pii/S0165188926000461) | [SSRN](https://dx.doi.org/10.2139/ssrn.4171236)<br>
 with [Soyoung Kim](https://sites.google.com/view/soyoungkim-econ) and [Yongseung Jung](https://www.researchgate.net/profile/Yongseung-Jung/research)<br>
 _Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
 <details><summary>Abstract</summary><p>We analyze the international spillover effects of US monetary policy uncertainty shocks on countries with fixed versus flexible exchange rate regimes. Our findings show that such shocks lead to a larger contraction in countries with flexible exchange rates than in those with fixed exchange rates, contradicting the conventional view that flexible exchange rates serve as a buffer against external shocks. We also document that US monetary policy uncertainty shocks raise economic uncertainty more strongly in countries with flexible exchange rate regimes. On the theoretical side, we demonstrate that a standard small open economy New Keynesian DSGE model cannot replicate this empirical result, but an augmented model that incorporates the direct international spillover of policy uncertainty is able to reproduce the findings.</p></details>
 
-
 #### Working Papers
-
 
 **FX Interventions in a Small Open Economy: The Case of Domestic Non-Deliverable Forwards** | [Link](https://yyun23.github.io/assets/pdf/papers/LMY_DNDF.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4992672)<br>
 with [Stefano Lord-Medrano](https://www.stefanomlm.com/)<br>
@@ -43,9 +38,7 @@ _Revision requested at Journal of Banking and Finance_<br>
 with [Annie Soyean Lee](https://www.anniesoyeanlee.com/)<br>
 Draft coming soon
 
-
 #### Pre-doctoral Publications in Other Fields
-
 
 **Impacts of Public Medical Insurance Reforms on Households: An Application of Fuzzy Cognitive Map for Scenario Evaluation** | [Publisher's Link](https://doi.org/10.1007/s00500-021-05617-4)<br>
 with [Hye-Young Jung](https://www.researchgate.net/profile/Hye-Young-Jung-2)<br>
