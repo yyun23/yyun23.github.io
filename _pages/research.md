@@ -11,7 +11,7 @@ _styles: ".post-header { display: none; } article h4 { margin-bottom: 1.5rem; }"
 #### Job Market Paper
 
 **Wealth Inequality and Sudden Stops** | [Link](https://yyun23.github.io/assets/pdf/papers/Yun_JMP.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7346466)<br>
-<span class="paper-presentation">Presented at: UMN-UW International/Macro Student Workshop 2026, Federal Reserve Board, IMF </span>
+<span class="paper-presentation">Presented at: UMN-UW International/Macro Student Workshop 2026, Federal Reserve Board, IMF (scheduled) </span>
 <details><summary>Abstract</summary><p>Countries with greater wealth inequality experience deeper recessions during sudden stops. Household-level data show that more unequal countries have a higher share of indebted households, whose debt and assets decrease more during sudden stops. Using a tractable model with heterogeneous households subject to borrowing constraints, I analytically characterize a mechanism that links the cross-country and household-level evidence. Greater inequality increases the fraction of constrained households, amplifying declines in asset prices and consumption following an adverse aggregate shock. Quantitatively, a 0.01 increase in the wealth Gini amplifies the declines in GDP and consumption by 0.07 and 0.11 percentage points, respectively, per percentage point of capital outflow during a sudden stop. Wealth taxation, when optimally combined with capital control on external debt, limits the increase in constrained households during sudden stops by reducing households’ borrowing needs through transfers, whereas the increase remains substantial under optimal capital control alone.</p></details>
 
 #### Publications
