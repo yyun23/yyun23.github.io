@@ -82,6 +82,11 @@ article ol {
   display: flow-root;
 }
 
+.paper-presentation {
+  font-size: 0.86rem; 
+  color: #6b7280; 
+}
+
 // CV page: no list markers, no location column
 .cv .list-group {
   list-style: none;
