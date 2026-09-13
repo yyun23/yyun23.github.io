@@ -24,6 +24,11 @@ _Journal of Economic Dynamics and Control_, 186, 105300, 2026.<br>
 
 #### Working Papers
 
+**U.S.–China Trade War and Spillover Effects to Bystander Countries** | Draft available upon request<br>
+with [Junhyong Kim](https://junkim3994.weebly.com) and [Annie Soyean Lee](https://sites.google.com/view/annielee/)<br>
+<span class="paper-presentation">Presented at: International Conference on Trade Wars, Geopolitical Fragmentation and Repercussions for Financial and Monetary Stability (scheduled) </span>
+<details><summary>Abstract</summary><p>The U.S.–China trade war in 2018-19 was bilateral in nature, but its effects extended to countries linked to both economies through global supply chains. This paper studies how the trade war affected Korea, a bystander country deeply integrated with China and the United States. While existing evidence on bystander countries emphasizes rerouting and trade diversion, Korea imported less from China after the trade war. We develop a simple analytical model of a global supply chain linking China, Korea, and the United States. The model shows that U.S. tariffs can reduce Korean imports from China when Chinese production exhibits increasing returns to scale: lower Chinese sales to the U.S. contract production scale, raise Chinese marginal costs, and increase the prices Korean firms pay for Chinese goods. The model also allows Chinese producers to reroute goods through Korea, generating heterogeneous effects across sectors depending on rerouting costs. Using transaction-level Korean customs data, we find that a 10 percentage-point increase in U.S. tariffs on Chinese products reduced Korean import quantities from China by about 24 percent and raised Korean import prices by about 2.5 percent. The decline is concentrated in industries exhibiting increasing returns to scale. However, in industries with high pre-shock U.S.-export exposure, Korean imports from China and exports to the U.S. both rise, consistent with rerouting through Korea. These results show that bilateral tariffs can generate both decoupling from China and indirect China-U.S. trade through third countries.</p></details>
+
 **FX Interventions in a Small Open Economy: The Case of Domestic Non-Deliverable Forwards** | [Link](https://yyun23.github.io/assets/pdf/papers/LMY_DNDF.pdf) | [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4992672)<br>
 with [Stefano Lord-Medrano](https://www.stefanomlm.com/)<br>
 <span class="paper-presentation">Presented at: UW-Madison Summer Research Fellowship Seminar 2024, UMN-UW International/Macro Student Workshop 2024, Midwest Economics Association 2025, Midwest Macro Spring 2025, Economics Graduate Student Conference at WashU 2025, Bank of Mexico Biennial Conference on Financial Stability 2025 </span>
@@ -40,7 +45,7 @@ _Revision requested at Journal of Banking and Finance_<br>
 <details><summary>Abstract</summary><p>We investigate how dual holders that simultaneously hold loans and equity shares of a firm respond to stock mispricing of the firm. Using the fire-sales shock driven by mutual fund outflows as a measure of stock mispricing, we find that dual holders provide lower loan spreads in times of fire-sales shocks. The result is driven by dual holders' incentive to support the firm as long-term investors. We find that the loan spread discount is more pronounced when dual holders are lead arrangers of the loan and when they hold larger equity shares of the firm. Dual holders offer lower spreads to help firms maintain investments, as the effect is greater when firms exhibit better growth prospects or face financial constraints due to higher equity financing costs. We establish causality  by exploiting mergers between banks. In a firm-level analysis, we find that dual holders' loan provisions offset the negative effects of the fire-sales shock on firms' capital investments.</p></details>
 
 **International Portfolio Choice with Infrequent Adjustment**<br>
-with [Annie Soyean Lee](https://www.anniesoyeanlee.com/)<br>
+with [Annie Soyean Lee](https://sites.google.com/view/annielee/)<br>
 Draft coming soon
 
 #### Pre-doctoral Publications in Other Fields
