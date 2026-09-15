@@ -11,7 +11,7 @@ _styles: ".post-header { display: none; }"
 #### University of Wisconsin-Madison
 
 - Econ 712/714: Macroeconomic Theory (PhD), Fall 2022, Spring 2023, and Fall 2023 <br>
-  _Distinguished Teaching Assistant, Spring 2023_
+  _Distinguished Teaching Assistant, Fall 2022_
 
   **Teaching Materials**
 
