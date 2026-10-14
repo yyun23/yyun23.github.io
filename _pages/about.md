@@ -23,12 +23,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Ph.D. candidate in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests are in international economics and macroeconomics. **I will be on the job market for the 2026-2027 academic year.**
+Hello! I am a Ph.D. candidate in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests are in international economics and macroeconomics. **I am on the job market for the 2026-2027 academic year.**
 
-In summer 2026, I visited the Federal Reserve Board as a dissertation fellow in the Division of International Finance. I worked at the International Monetary Fund as an intern in summer 2025.
+In Summer 2026, I visited the Federal Reserve Board as a dissertation fellow in the Division of International Finance. I worked at the International Monetary Fund as an intern in Summer 2025 and as a visiting scholar in Spring 2026.
 
 **Contact Information:**
 
 - E-mail: [yyun23@wisc.edu](mailto:yyun23@wisc.edu)
 
 - Address: Social Sciences 6408, 1180 Observatory Drive, Madison, WI 53706
+
+**Job Market Paper:** [Wealth Inequality and Sudden Stops](https://yyun23.github.io/assets/pdf/papers/Yun_JMP.pdf)
+
+In my job market paper, I establish wealth inequality as a source of macroeconomic vulnerability that deepens recessions during sudden stop crises.
