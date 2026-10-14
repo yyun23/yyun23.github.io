@@ -353,6 +353,12 @@
       {% else %}
         <p>No CV data found. Please configure either RenderCV (cv.yml) or JSONResume (resume.json) data.</p>
       {% endif %}
+
+      <div class="card cv-card">
+        <h3 class="card-title font-weight-medium">
+          <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}">PDF</a>
+        </h3>
+      </div>
     </div>
   </article>
 </div>
