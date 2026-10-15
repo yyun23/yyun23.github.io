@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Ph.D. candidate in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/). My research interests are in international economics and macroeconomics. **I am on the job market for the 2026-2027 academic year.**
+Hello! I am a Ph.D. candidate in Economics at the [University of Wisconsin-Madison](https://econ.wisc.edu/staff/yun-yeonggyu/). My research interests are in international economics and macroeconomics. **I am on the job market for the 2026-2027 academic year.**
 
 In Summer 2026, I visited the Federal Reserve Board as a dissertation fellow in the Division of International Finance. I worked at the International Monetary Fund as an intern in Summer 2025 and as a visiting scholar in Spring 2026.
 
